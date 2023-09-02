@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "img1": "https://i.pinimg.com/564x/77/a9/8d/77a98db6c328b827fdbcaec7cbd8d7c1.jpg",
+      "img2": "https://i.pinimg.com/564x/f9/42/1a/f9421aa733c043bf3a52fdb90a9d8a2d.jpg",
+      "img3": "https://i.pinimg.com/564x/f3/b6/71/f3b67148924bb774be23d4d3e73a9036.jpg",
+      "productname": "planter pot",
+      "price": 1000,
+      "quantity": 5,
+      "id": 1
+    },
+    {
+      "quantity": 11,
+      "id": 3
+    },
+    {
+      "quantity": 7,
+      "id": 5
+    },
+    {
+      "img1": "https://i.pinimg.com/564x/1d/4f/f9/1d4ff91fa4fbd7a8707aa9ae3644f85b.jpg",
+      "img2": "https://i.pinimg.com/564x/ee/d3/16/eed316c83cd6d9a4e6b34e9adf3b1a9e.jpg",
+      "img3": "https://i.pinimg.com/564x/78/4f/b2/784fb27925424e258d15654c3f1ef6c7.jpg",
+      "productname": "Rock Pile Table Lamp",
+      "price": "600",
+      "quantity": "22",
+      "id": 6
+    },
+    {
+      "img1": "https://i.pinimg.com/564x/b6/eb/75/b6eb757734956fdebc6a1f7a0513c85f.jpg",
+      "img2": "https://i.pinimg.com/564x/d4/81/86/d481861f41aa1dd962b5af9a0ca15a3b.jpg",
+      "img3": "https://i.pinimg.com/564x/7a/bd/82/7abd82f3c82e1cfad711e3e3a8601541.jpg",
+      "productname": "vas",
+      "price": "123",
+      "quantity": "44",
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "firstname": "admin",
+      "lastname": "admin",
+      "email": "admin@yahoo.com",
+      "password": "ADmin@123"
+    },
+    {
+      "firstname": "reem",
+      "lastname": "yasser",
+      "email": "reem123@gmail.com",
+      "password": "REas@321",
+      "id": 2
+    },
+    {
+      "firstname": "Nada",
+      "lastname": "Ahmed",
+      "email": "nadaggamal123@gmail.com",
+      "password": "NAda@123",
+      "id": 3
+    },
+    {
+      "firstname": "maryem",
+      "lastname": "safwat",
+      "email": "maryam@gamil.com",
+      "password": "MAma@321",
+      "id": 4
+    },
+    {
+      "firstname": "Nada",
+      "lastname": "Ahmed",
+      "email": "nadaggamal123@gmail.com",
+      "password": "DAas123@",
+      "id": 5
+    },
+    {
+      "firstname": "fafafa",
+      "lastname": "ggaggs",
+      "email": "ree23@gmail.com",
+      "password": "REas@32d",
+      "id": 6
+    },
+    {
+      "firstname": "reem ",
+      "lastname": "yasserr ",
+      "email": "reem123@gmail.com",
+      "password": "REas@321",
+      "id": 7
+    },
+    {
+      "firstname": "merehan",
+      "lastname": "hassan",
+      "email": "meme@gmail.com",
+      "password": "MEme%123",
+      "id": 8
+    },
+    {
+      "firstname": "mina",
+      "lastname": "atef",
+      "email": "mm123@gmail.com",
+      "password": "ASdf123$",
+      "id": 9
+    },
+    {
+      "firstname": "hoda",
+      "lastname": "Ahmed",
+      "email": "nadaggama@gmail.com",
+      "password": "ASdf123#",
+      "id": 10
+    },
+    {
+      "firstname": "nerimen",
+      "lastname": "hanu",
+      "email": "nn@gmail.com",
+      "password": "ASdf@123",
+      "id": 11
+    },
+    {
+      "firstname": "nada",
+      "lastname": "gdasa",
+      "email": "n@gmail.com",
+      "password": "ASdf@123",
+      "id": 12
+    }
+  ]
+}
